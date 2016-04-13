@@ -14,7 +14,7 @@
             "type":"string",
             "default":"NODE"
           },
-          "plan_strategy":{
+          "phase_strategy":{
             "description":"Broker placement strategy. See documentation. [INSTALL, STAGE]",
             "type":"string",
             "default":"INSTALL"
